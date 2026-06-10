@@ -2,7 +2,7 @@
 
 I'm an aspiring Junior Software / Web Developer based in the UK, focused on building fun clean, responsive, user-friendly web applications with React, JavaScript, TypeScript, Node.js, and modern CSS. 
 
-I also enjoy working with python for problemsolving, scripting and small projects. I like creating products that feel polished from both the user side and the engineering side, I try to have clear interfaces, thoughtful error states, reusable components, and code that is easy to understand.
+I also enjoy working with python for problem solving, scripting and small projects. I like creating products that feel polished from both the user side and the engineering side, I try to have clear interfaces, thoughtful error states, reusable components, and code that is easy to understand.
 
 ## Tech I use
 
